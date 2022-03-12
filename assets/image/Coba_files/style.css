@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #00c8eb;
+    padding: 60px;
+    font-size: 20px;
+    color: white;
+}
+
+nav {
+    background-color: #00a2c6;
+    padding: 5px;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8x 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.profile {
+    text-align: center;
+}
+
+.second-section {
+    background-color: aqua;
+}
+
+h2,
+h3 {
+    color: #00a2c6;
+}
+
+section {
+    text-align: left;
+}
+
+table {
+    margin-left: 5px;
+}
+
+footer {
+    padding: 20px;
+    color: white;
+    background-color: #00a2c6;
+    text-align: center;
+    font-weight: bold;
+}
